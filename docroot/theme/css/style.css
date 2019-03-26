@@ -1,0 +1,30 @@
+html {
+bacground: #cecece;
+}
+
+body{
+color:#888888;
+}
+
+table {
+  border:2px solid #ccc;
+}
+table thead{
+  background:#888;
+  color:#000;
+}
+table thead th{
+  background:#444;
+  color:#000;
+}
+table tr{
+  border:1px solid #ccc;
+}
+table td{
+  border:1px solid #ccc;
+}
+
+label {
+  display: block;
+  margin: 5px 0;
+}
